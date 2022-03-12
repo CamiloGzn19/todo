@@ -26,6 +26,7 @@ export const OpNav = styled.nav`
 
     >p, button{
         font-size: 13px;
+        font-family: 'Josefin Sans', sans-serif;
         font-weight: 500;
         color: hsl(236, 9%, 61%);
         .dark &{
@@ -35,6 +36,7 @@ export const OpNav = styled.nav`
     button{
         border: none;
         background:none;
+        font-family: 'Josefin Sans', sans-serif;
         text-transform: capitalize;
         &:nth-child(1){
             color:hsl(220, 98%, 61%);
