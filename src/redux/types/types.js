@@ -1,0 +1,10 @@
+export const types = {
+    GET_DATA : "GET_DATA",
+    ADD_NOTA: "ADD_NOTA",
+    MARK_NOTA: "MARK_NOTA",
+    DELETE_NOTA: "DELETE_NOTA",
+    CLEAN_COMPLETED: "CLEAN_COMPLETED"
+
+}
+
+
